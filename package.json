@@ -1,0 +1,19 @@
+{
+  "name": "table-creation",
+  "version": "1.0.0",
+  "description": "Html table",
+  "main": "table.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/prasathram387/table-creation.git"
+  },
+  "author": "ram",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/prasathram387/table-creation/issues"
+  },
+  "homepage": "https://github.com/prasathram387/table-creation#readme"
+}
